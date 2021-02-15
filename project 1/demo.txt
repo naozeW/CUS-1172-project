@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Haofan Wang's self-introduction </title>
+  </head>
+  <body>
+    <h1>1.Basic profile information section </h1>
+    <img src="profile_picture.jpg" width="270" height="360">
+      <p>My name is Haofan Wang. I'm 23 years old. I come from Jinan, China, where is a place between Beijing and Shanghai. My major is Computer Science. I chose programming out of personal interest. After graduation, I plan to take over the family herbicide business.
+     </p>
+    <h1>2.Education summary section </h1>
+      <p>none</p>
+    <h1>3.Work Experience/Internships section </h1>
+      <p>Internship as a herbicide salesman for three months.</p>
+    <h1>4.Programming Skills section</h1>
+      <p>C and C+:
+             Make sample Password-book and Gluttonous Snake
+             paython: passed CSC 1380 INTRO COMPUTER & DATA SCIENCE class
+             Java: passed CUS 1115, CUS 1116 class      
+      </p>
+    <h1>5.General Interests section</h1>
+      <p>
+      I like a wide range of music styles, whether it is classical music, blues, rock, pop, folk music, military music, and any interesting style. In terms of listening frequency, the most concentrated in the 1950s to 1990s rock music.
+      I want to share one of my favorite music pieces here, which is from my favorite anime: Star Cowboy ：Gotta Knock a Little Harder - Seatbelts COWBOY BEBOP.
+      <a href="https://www.youtube.com/watch?v=0V-WGwJJj58">Visit our HTML tutorial</a>
+      </p>
+      <p>
+
+      </p>
+    <h1>6.Favorite Website section</h1>
+      <p></p>
+      
+    <h1>7.Menu section</h1>
+    <h1>8.My Projects in this course</h1>
+  </body>
+</html>
