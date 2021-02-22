@@ -1,35 +1,106 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
     <title>Haofan Wang's self-introduction </title>
+    <base target="_blank">
+ 
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+
+
   </head>
   <body>
-    <h1>1.Basic profile information section </h1>
-    <img src="profile_picture.jpg" width="270" height="360">
+
+    <div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+  </div>
+</div>
+    <h1 align="center" class="navy">Introduce My Self</h1>
+<div class="container-fluid" style="background-color: tomato">
+  <div class="row">
+
+    <div class="col-2" style="background-color: tomato"><a href="#one">Basic information</a></div>
+    <div class="col-2" style="background-color: tomato"><a href="#two">Education summary</a></div>
+    <div class="col-2" style="background-color: tomato"><a href="#three">Work Experience</a></div>
+    <div class="col-2" style="background-color: tomato"><a href="#four">Programming Skills</a></div>
+    <div class="col-2" style="background-color: tomato"><a href="#five">General Interests</a></div>
+    <div class="col-2" style="background-color: tomato"><a href="#six">Favorite Website</a></div>
+  </div>
+</div>
+
+    
+
+    <h2  class="display-4" id="one">1.Basic profile information section </h2>
+    <img src="images/profile_picture.jpg" width="270" height="360" title="this is moop!" border="2">
       <p>My name is Haofan Wang. I'm 23 years old. I come from Jinan, China, where is a place between Beijing and Shanghai. My major is Computer Science. I chose programming out of personal interest. After graduation, I plan to take over the family herbicide business.
      </p>
-    <h1>2.Education summary section </h1>
+    <h2 id="two">2.Education summary section </h2>
       <p>none</p>
-    <h1>3.Work Experience/Internships section </h1>
+    <h2 id="three">3.Work Experience/Internships section </h2>
       <p>Internship as a herbicide salesman for three months.</p>
-    <h1>4.Programming Skills section</h1>
-      <p>C and C+:
-             Make sample Password-book and Gluttonous Snake
-             paython: passed CSC 1380 INTRO COMPUTER & DATA SCIENCE class
-             Java: passed CUS 1115, CUS 1116 class      
+    <h2 id="four">4.Programming Skills section</h2>
+      <p>C and C+: Make sample Password-book and Gluttonous Snake<br />
+         paython: passed CSC 1380 INTRO COMPUTER & DATA SCIENCE class<br />
+         Java: passed CUS 1115, CUS 1116 class      
       </p>
-    <h1>5.General Interests section</h1>
+    <h2 id="five">5.General Interests section</h2>
+    <h3>Music</h3>
       <p>
       I like a wide range of music styles, whether it is classical music, blues, rock, pop, folk music, military music, and any interesting style. In terms of listening frequency, the most concentrated in the 1950s to 1990s rock music.
       I want to share one of my favorite music pieces here, which is from my favorite anime: Star Cowboy ：Gotta Knock a Little Harder - Seatbelts COWBOY BEBOP.
-      <a href="https://www.youtube.com/watch?v=0V-WGwJJj58">Here!</a>
+      <span class="badge badge-secondary"><a href="https://www.youtube.com/watch?v=aDkTxQSe2KY" target="_blank">here</a></span>
       </p>
+    <h3>My Favorite Movie</h3>
       <p>
-
+      As for me, I am willing to accept and appreciate all forms of works with artistic value, whether they are films, paintings, books, music or even games.In my opinion, appreciating different types of art works in different regions and times can help me better calibrate the operation mechanism of the real world</p>
+      <p>
+      My favorite animated film is Morio Oshii's 1995 animated film Ghost in the Shell.This is an atypical cyberpunk movie.Classic cyberpunk movies tend to focus on the human nature of artificial intelligence or human in a high-tech, low-living environment.Oshii has a unique understanding of the subject.He focuses more on whether there is a clear boundary between man and machine.In the end, whether it will be fully integrated and reveal a new form of life.In the film's time, this discussion was groundbreaking.Moreover, purely from the technical level of an animated film, its painting, style, environment and character design can be regarded as a landmark work of animated film
+      <span class="badge badge-secondary"><a href="https://www.youtube.com/watch?v=iHil4Y4r3Wk&t=1430s" target="_blank">here</a></span>
       </p>
-    <h1>6.Favorite Website section</h1>
-      <p></p>
+    <h2 id="six">6.Favorite Website section</h2>
+      <p>
+      <a href="https://www.symbolab.com/solver/step_by_step/" target="_blank">Symbolab:Step-by-Step Calculator</a><br />
+      <a href="https://www.desmos.com/calculator?lang=zh-en" target="_blank">Desmos: Mathematics drawing software</a>
+      </p>
       
-    <h1>7.Menu section</h1>
-    <h1>8.My Projects in this course</h1>
+    <h2 id="seven">7.Menu section</h2>
+
+
+        <span class="badge badge-secondary"><a href="#one"> Basic information </a></span>
+    <span class="badge badge-secondary"><a href="#two" style="menucolor"> Education section </a></span>
+    <span class="badge badge-secondary"><a href="#three"> Work Experience/Internships section </a></span>
+    <span class="badge badge-secondary"><a href="#four"> Programming Skills section </a></span>
+    <span class="badge badge-secondary"><a href="#five"> General Interests section </a></span>
+    <span class="badge badge-secondary"><a href="#six"> Favorite Website section </a></span>
+    <span class="badge badge-secondary"><a href="#seven"> Menu section </a><br/ ></span>
+
   </body>
 </html>

@@ -1,0 +1,33 @@
+h1{color: dimgray;}
+div{color: dimgray;}
+span{color: dimgray;}
+ul{color: dimgray;}
+li{color: dimgray;}
+h3{color: dimgray;}
+table{color: dimgray;}
+form{color: dimgray;}
+h2{color: dimgray}
+p {color:dimgray;}
+a{color: dimgray;}
+
+a:link {color: gold} /* 未访问的bai链接du */
+a:visited {color: gold} /* 已访问的链接 */
+a:hover {color: indigo; text-decoration: none;} /* 鼠标移动到链zhi接上 */
+a:active {color: gold} /* 选定的链接 */
+a {text-decoration: none;}/*delete the under line*/
+body {background-color: rgb(248,248,255);}
+
+    p{}
+
+
+
+
+
+
+
+
+<style>
+    .navy {font-size: 100px;color: navy;}
+    .menucolor{background-color:tomato; text-align: center; }
+    .yello{color: yellow;background-color: dimgray}
+</style>
