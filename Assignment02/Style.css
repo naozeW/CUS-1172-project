@@ -1,0 +1,6 @@
+h1{color: red}
+<style>
+    .unifinisher{font-size: 100px;color: black;}
+    .completed{font-size: 100px;color: red;text-decoration: line-through;}
+    .priouuityStyle{color: tomato;text-decoration: null;}
+</style>
