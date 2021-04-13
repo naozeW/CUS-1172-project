@@ -1,0 +1,412 @@
+{
+    "type1": [
+        {
+            "q": "Where is the digit 6 in 19,865?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 6 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 0 in 2011?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 2,
+            "e": "The 0 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 2 in 21?",
+            "s": [
+                "ones place",
+                "tens place"
+            ],
+            "a": 1,
+            "e": "The 2 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 8 in 58?",
+            "s": [
+                "ones place",
+                "tens place"
+            ],
+            "a": 0,
+            "e": "The 8 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 2 in 123?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 2 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 3 in 3,768?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 3 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 9 in 8,019?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 9 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 6 in 19,865?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 6 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 1 in 41,908?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 1 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 5 in 65?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 5 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 4 in 49?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 4 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 9 in 9,706?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 9 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 1 in 10?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 1 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 4 in 410?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 4 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 9 in 900?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 9 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 8 in 2008?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 8 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 3 in 389?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 3 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 4 in 4980?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 4 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 1 in 100?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 1 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 9 in 900?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 9 is in the hundreds place."
+        }
+    ],
+    "type2": [
+        {
+            "q": "Where is the digit 6 in 19,865?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 6 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 0 in 2011?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 2,
+            "e": "The 0 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 2 in 21?",
+            "s": [
+                "ones place",
+                "tens place"
+            ],
+            "a": 1,
+            "e": "The 2 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 8 in 58?",
+            "s": [
+                "ones place",
+                "tens place"
+            ],
+            "a": 0,
+            "e": "The 8 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 2 in 123?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 2 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 3 in 3,768?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 3 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 9 in 8,019?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 9 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 6 in 19,865?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 6 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 1 in 41,908?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 1 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 5 in 65?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 5 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 4 in 49?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 4 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 9 in 9,706?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 9 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 1 in 10?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 1,
+            "e": "The 1 is in the tens place."
+        },
+        {
+            "q": "Where is the digit 4 in 410?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 4 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 9 in 900?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 9 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 8 in 2008?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 0,
+            "e": "The 8 is in the ones place."
+        },
+        {
+            "q": "Where is the digit 3 in 389?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 3 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 4 in 4980?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place",
+                "thousands place"
+            ],
+            "a": 3,
+            "e": "The 4 is in the thousands place."
+        },
+        {
+            "q": "Where is the digit 1 in 100?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 1 is in the hundreds place."
+        },
+        {
+            "q": "Where is the digit 9 in 900?",
+            "s": [
+                "ones place",
+                "tens place",
+                "hundreds place"
+            ],
+            "a": 2,
+            "e": "The 9 is in the hundreds place."
+        }
+    ]
+}
