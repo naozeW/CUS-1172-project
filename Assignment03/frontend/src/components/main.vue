@@ -75,7 +75,7 @@ export default {
       this.total = 2;
       this.score = 0;
       this.showSubmit = true;
-      this.$http.get('../static/questions.json').then((res) => {
+      this.$http.get('./questions.json').then((res) => {
         if (t == 1) {
           this.questions = res.data["type1"];
           this.total = this.questions.length;
